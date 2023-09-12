@@ -1,4 +1,4 @@
-# notepad
+# My Notes
 
 A Flutter project.
 
